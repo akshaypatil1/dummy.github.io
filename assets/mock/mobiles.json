@@ -1,0 +1,26 @@
+{
+    "data" : [{
+        "id" : 1,
+        "name" : "One Power",
+        "company" : "Motorola",
+        "price" : 200,
+        "inStock" : true,
+        "productImage" : "assets/img/mobile.jpeg"
+      },
+      {
+        "id" : 2,
+        "name" : "Nokia 1100",
+        "company" : "Nokia",
+        "price" : 250,
+        "inStock" : false,
+        "productImage" : "assets/img/mobile.jpeg"
+      },
+      {
+        "id" : 3,
+        "name" : "OnePlus 1+",
+        "company" : "OnePlus",
+        "price" : 275,
+        "inStock" : true,
+        "productImage" : "assets/img/mobile.jpeg"
+      }]
+}
